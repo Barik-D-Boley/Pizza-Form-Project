@@ -1,0 +1,30 @@
+fieldset#opaque{
+    background-color: lightgray;
+}
+label{
+    font-size: 30px;
+    color: black;
+}
+legend{
+    font-size: 40px;
+    color: white;
+    background-color: brown;
+}
+body{
+    background-image: url("../Images/background.jpg"); 
+}
+input{
+    opacity: 100%;
+}
+img#soda{
+    float: right;
+    width: 200px;
+    height: 200px;
+    border: #85461e solid 4px;
+}
+img#pizza{
+    float: right;
+    width: 200px;
+    height: 200px;
+    border: #996515 solid 4px;
+}
